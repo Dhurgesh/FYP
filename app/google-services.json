@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "625845710993",
+    "firebase_url": "https://fypfirebaseproject-c6074.firebaseio.com",
+    "project_id": "fypfirebaseproject-c6074",
+    "storage_bucket": "fypfirebaseproject-c6074.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625845710993:android:a51c54371a206772",
+        "android_client_info": {
+          "package_name": "sg.edu.rp.c346.fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625845710993-1l0s0gso44j6qedofmmj8bguf1mltkvt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sg.edu.rp.c346.fyp",
+            "certificate_hash": "5562263cc7749151057a527ff20c72f151d967f4"
+          }
+        },
+        {
+          "client_id": "625845710993-se6ev3bbmunumv9i1bs7ppsps3mbo5hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG50pROI6Wu2DSXq_MKaYYX0Yj8r4JLfU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625845710993-se6ev3bbmunumv9i1bs7ppsps3mbo5hr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

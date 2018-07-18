@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FYP</string>
+    <string name="userid">User ID</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="chart">Click Here To View Chart</string>
+    <string name="solenoid">Click Here To Activate Solenoid Valve</string>
+    <string name="threshold">Click Here To Set Threshold For Nitrate Level</string>
+</resources>
